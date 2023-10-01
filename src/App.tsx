@@ -17,8 +17,6 @@ function App() {
         // IdP data available using getAdditionalUserInfo(result)
         // ...
       })
-      .catch((error) => {
-      });
   }
 
   return (
